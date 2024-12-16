@@ -1,0 +1,18 @@
+1. 
+> Author: Jeordain Lawrence 
+> Date Created: Dec 15, 2024
+> Course:IT103
+> GitHub Public URL:
+
+2.   
+> The purpose of this program is to store all student information in relation to the:
+o Their school information
+o The course available to them 
+o The courses they are registered in 
+o The amount they must pay to be fully registered and the balance they have remaining.
+> To run the program adequately one may on select their desired option from the menu. However, some menu options are inefficient if their pre-requisites aren’t completed. Eg: You are unable to show all the available courses unless you have already added a course in the system. 
+
+3. Limitation
+> If any changes are made to the program, code would have to be re run for changes to be made. 
+
+ 
