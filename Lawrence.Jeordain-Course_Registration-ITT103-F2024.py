@@ -120,7 +120,7 @@ class RegistrationSystem:
 def main():
     system = RegistrationSystem()
     while True:
-        print("\nWelcome! Please select an option:")
+        print("Welcome! Please select an option:")
         print("1. Register a student")
         print("2. Add a course")
         print("3. Enroll a student in a course")
